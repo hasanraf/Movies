@@ -12,3 +12,78 @@ https://mflixott.com/tv/toffee/live.php?id=colors_cineplex&e=.m3u8
 
 #EXTINF:-1 tvg-id="jalsha_movies" tvg-name="Jalsha Movies" tvg-logo="https://images.toffeelive.com/images/program/35344/logo/240x240/mobile_logo_290124001655891147.png" group-title="MOVIES HD", Jalsha Movies
 https://mflixott.com/tv/toffee/live.php?id=jalsha_movies&e=.m3u
+
+#EXTINF:-1 tvg-logo="https://placehold.co/200x120/1e293b/f97316?text=Zee+TV",Zee TV
+https://sm-monirul.top/Toffee/live.php?id=106a66093e92&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://placehold.co/200x120/1e293b/f97316?text=Zee+Cinema",Zee Cinema
+https://sm-monirul.top/Toffee/live.php?id=d581dd66e556&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://placehold.co/200x120/1e293b/f97316?text=Zee+Bangla+Cinema",Zee Bangla Cinema
+https://sm-monirul.top/Toffee/live.php?id=3a4a0ceff620&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://placehold.co/200x120/1e293b/f97316?text=Zee+Action",Zee Action
+https://sm-monirul.top/Toffee/live.php?id=72a0803cf563&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://placehold.co/200x120/1e293b/f97316?text=Zee+Bollywood",Zee Bollywood
+https://sm-monirul.top/Toffee/live.php?id=2ea95a9da2d7&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://placehold.co/200x120/1e293b/f97316?text=Sony+Yay",Sony Yay
+https://sm-monirul.top/Toffee/live.php?id=57bd9c2493c1&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/news18bangla.com",News 18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/timesofindia.indiatimes.com",Times of India
+https://live.sli.ke/live/npnhm84gz9/h/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/entertein.tv",Entertein
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/zee24news.com",Zee 24 Hours
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/tv9bangla.com",TV 9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/dangal2.tv",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/ddindia.gov.in",DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/ddindia.gov.in",DD Urdu
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/indiasanda.tv",India Sanda TV
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/indiatv.in",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/indiatoday.in",India Today
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/zeenews.india.com",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/indiatv.in",India TV Speed
+https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/ndtv.com",NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/ndtv.com",NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/hindimovie.tv",Hindi Movie
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/goldmines.in",Gold Mines
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/goldmines.in",Goldmines1
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/sarktv.com",Sark TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
